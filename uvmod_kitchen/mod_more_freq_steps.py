@@ -1,7 +1,7 @@
 # change below steps to new ones, values are in Hz
 # You can add reasonably more steps here
 
-new_freq_steps = [2500, 5000, 6250, 10000, 12500, 25000, 8330, 500000, 10, 1250, 20000]
+new_freq_steps = [50, 100, 150, 200, 250, 500, 1000, 1500, 2000, 2500, 5000, 6250, 10000, 12500, 25000, 8330, 500000, 10, 1250, 20000]
 
 
 
